@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5596F718-A047-44F5-A76B-ACF21F0B12C9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tableview-example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DE206FE5-D4AF-4F13-AA03-E69839B54EE4</key>
+		<string>ssh://github.com/strongloop-community/loopback-examples-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios-tableview-simple-example/tableview-example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DE206FE5-D4AF-4F13-AA03-E69839B54EE4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/strongloop-community/loopback-examples-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DE206FE5-D4AF-4F13-AA03-E69839B54EE4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE206FE5-D4AF-4F13-AA03-E69839B54EE4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>loopback-examples-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
